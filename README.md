@@ -1,4 +1,4 @@
-# CS361-Assignment 9: Microservice Implementation (Milestone #2)
+# CS361-Assignment 9: Microservice Implementation (Milestone #2) - Communication Contract
 
 # How to programmatically REQUEST data from this microservice
 
@@ -31,5 +31,6 @@ for requesting and receiving the data, because it was efficient, and direct.
 
 # UML Diagram
 
+![UML Diagram](https://github.com/altindeu/CS361-Milestone-2/assets/71780291/ef573adc-e1f4-45bd-84c2-aedd1aa58a4d)
 
 
