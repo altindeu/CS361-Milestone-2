@@ -3,8 +3,10 @@
 # How to programmatically REQUEST data from this microservice
 
 This microservice for pet health forum works with HTTP request, which you can directly call from the "Postman" website.
-Since it is written in Python Flask, you can also programatically use "requests" library, such as using the
-requests.get("http://localhost:5000/posts/1"), then add the response.json() to the post, and call it with print(post).
+I will explain the Postman application in the receive data method, but in this one, I would like to explain how you could
+receive the HTTP Request basically, from only using couple more codes to execute the HTTP Request. Since it is written in 
+Python Flask, you can programatically use "requests" library, such as using the requests.get("http://localhost:5000/posts/1"), 
+then add the response.json() to the post, and call it with print(post).
 
 # How to programatically RECEIVE data from this microservice
 
